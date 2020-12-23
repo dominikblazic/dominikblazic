@@ -6,10 +6,10 @@
 -  :tennis: Fun fact: If you beat me at table tennis, I'll buy you a coffee! (or if you don't, either way, we'll grab a :coffee:)
 
 <a href="https://www.linkedin.com/in/dominikblazic/">
-  <img align="left" alt="Dominik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/dominikblazic/dominikblazic/master/assets/linkedin.svg" />
+  <img align="left" alt="Dominik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/dominikblazic/dominikblazic/master/assets/linkedin1.svg" />
 </a>
 <a href="mailto:dominik.blazic@gmail.com">
-  <img align="left" alt="Dominik's emial" width="22px" src="https://raw.githubusercontent.com/dominikblazic/dominikblazic/master/assets/email.svg" />
+  <img align="left" alt="Dominik's emial" width="22px" src="https://raw.githubusercontent.com/dominikblazic/dominikblazic/master/assets/gmail.svg" />
 </a>
 
 <!--
