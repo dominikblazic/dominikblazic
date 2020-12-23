@@ -3,7 +3,7 @@
 - :office: I am a .NET developer at <a href="https://www.in2.hr/">IN2 Group</a>
 - :computer: I'm currently working on my private side project in which I'm trying to get a handle on Blazor, SingalR and .NET 5
 - 💬 Feel free to reach out and ask me about whatever you feel like 
-- ⚡ Fun fact: If you beat me at table tennis, I'll buy you a coffee :tennis:
+-  :tennis: Fun fact: If you beat me at table tennis, I'll buy you a coffee! (or if you don't, either way, we'll grab a :coffee:)
 
 <a href="https://www.linkedin.com/in/dominikblazic/">
   <img align="left" alt="Dominik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
