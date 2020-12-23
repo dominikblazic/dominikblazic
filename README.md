@@ -9,7 +9,7 @@
   <img align="left" alt="Dominik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/dominikblazic/dominikblazic/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:dominik.blazic@gmail.com">
-  <img align="left" alt="Dominik's emial" width="22px" src="https://raw.githubusercontent.com/dominikblazic/dominikblazic/master/assets/linkedin.svg" />
+  <img align="left" alt="Dominik's emial" width="22px" src="https://raw.githubusercontent.com/dominikblazic/dominikblazic/master/assets/email.svg" />
 </a>
 
 <!--
