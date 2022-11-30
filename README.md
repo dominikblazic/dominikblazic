@@ -1,6 +1,6 @@
 ﻿### Hi there, I'm Dominik Blažić 👋
 
-- :office: I am a .NET developer at <a href="https://www.infinum.com/">Infinum</a>
+- :office: I am a .NET engineer at <a href="https://www.infinum.com/">Infinum</a>
 - :computer: I'm currently working on my private side project in which I'm trying to get a handle on Blazor, Redis, SingalR and .NET 5
 - 💬 Feel free to reach out and ask me about whatever you feel like on LinkedIn (link below)
 
