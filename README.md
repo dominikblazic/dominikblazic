@@ -1,13 +1,9 @@
 ﻿### Hi there, I'm Dominik Blažić 👋
 
-- :office: I am a .NET engineer at <a href="https://www.infinum.com/">Infinum</a>
-- 💬 Feel free to reach out and ask me about whatever you feel like on LinkedIn (link below)
-
-
-<a href="https://www.linkedin.com/in/dominikblazic/">
-  <img align="left" alt="Dominik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/dominikblazic/dominikblazic/master/assets/linkedin1.svg" />
-</a>
-
+- :construction_worker: I am a Senior .NET engineer at <a href="https://www.infinum.com/">Infinum</a>.
+- :computer: I’m currently working on a personal project that I hope to publish soon, while also exploring new technologies like React and Firebase.
+- ⚡ I am the top contributor to the backend part of [Subs](https://subs.com/), social media tailored for content creators.
+- 💬 Feel free to reach out and ask me about whatever you feel like on <a href="https://www.linkedin.com/in/dominikblazic/">LinkedIn</a>.
 
 <!--
 **dominikblazic/dominikblazic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
