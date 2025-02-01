@@ -1,8 +1,8 @@
 ﻿### Hi there, I'm Dominik Blažić 👋
 
-- :construction_worker: I am a Senior .NET engineer at <a href="https://www.infinum.com/">Infinum</a>.
-- :computer: I’m currently developing a personal project that I hope to publish soon. Stay tuned. 🤞
-- ⚡ I am the top contributor to the backend part of [Subs](https://subs.com/), social media tailored for content creators.
+- :construction_worker: Senior .NET engineer at <a href="https://www.infinum.com/">Infinum</a>.
+- :computer: Currently developing a personal project that I hope to publish soon. Stay tuned. 🤞
+- ⚡ Top contributor to the backend part of [Subs](https://subs.com/), social media tailored for content creators.
 - 💬 For more info feel free to check out my profile or reach out on <a href="https://www.linkedin.com/in/dominikblazic/">LinkedIn</a>.
 
 ### Tools I am most comfortable working with
