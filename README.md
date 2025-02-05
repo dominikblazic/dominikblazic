@@ -1,4 +1,4 @@
-﻿### Hi there, I'm Dominik Blažić 👋
+﻿### Hi, I'm Dominik Blažić 👋
 
 - :construction_worker: Senior .NET engineer at <a href="https://www.infinum.com/">Infinum</a>.
 - :computer: Currently developing a personal project that I hope to publish soon. Stay tuned. 🤞
