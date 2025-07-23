@@ -6,7 +6,7 @@
 <!--- ⚡ Top contributor to the backend part of [Subs](https://subs.com/), social media tailored for content creators. -->
 
 ### Tools I am most comfortable working with
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,postgres,visualstudio&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,aws,postgres,react,visualstudio,github&perline=8)](https://skillicons.dev)
 
 <!--
 **dominikblazic/dominikblazic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
