@@ -1,8 +1,8 @@
 ﻿### Hi, I'm Dominik Blažić 👋
 
 - :construction_worker: Senior Backend Engineer
-- :computer: Currently developing a personal project that I hope to publish soon. Stay tuned. 🤞
-- 💬 For more info feel free to check out my profile or reach out on <a href="https://www.linkedin.com/in/dominikblazic/">LinkedIn</a>.
+- 🚧 Currently working on a personal project - coming soon! 🤞
+- 💬 For more info feel free to check out my profile or reach out on <a href="https://www.linkedin.com/in/dominikblazic/">LinkedIn</a>
 <!--- ⚡ Top contributor to the backend part of [Subs](https://subs.com/), social media tailored for content creators. -->
 
 ### Tools I am most comfortable working with
