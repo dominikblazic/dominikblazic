@@ -1,6 +1,6 @@
 ﻿### Hi, I'm Dominik Blažić 👋
 
-- :construction_worker: Senior Software Engineer - backend, .NET
+- :construction_worker: Senior Software Engineer
 - 🎮 Building [Kvizalica.hr](https://kvizalica.hr) as a passion project — a real-time multiplayer trivia platform (React, TypeScript, Firebase)
 - 💬 For more info feel free to check out my profile or reach out on <a href="https://www.linkedin.com/in/dominikblazic/">LinkedIn</a>
 <!--- ⚡ Top contributor to the backend part of [Subs](https://subs.com/), social media tailored for content creators. -->
